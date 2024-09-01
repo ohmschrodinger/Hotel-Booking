@@ -1,0 +1,19 @@
+
+__________Offered locations__________
+      
+Mumbai  Pune Hyderabad Goa Banglore
+
+Regions available in Mumbai
+Wadala  Bandra Chembur
+
+Regions available in Pune
+Aundh Shivajinagar Sinhagad
+
+Regions available in Hyderabad 
+Gachibowli Miyarpur Madharpur
+
+Regions available in Goa
+Panaji Mapusa Aldona
+
+Regions available in Banglore
+Indiranagar Banashankari        
